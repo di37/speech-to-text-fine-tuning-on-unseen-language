@@ -1,4 +1,4 @@
-# Fine-tuning a Speech-to-Text Whisper model - Dhivehi language
+# Fine-tuning a Speech-to-Text Whisper model on unseen language - Dhivehi language
 
 This project focuses on fine-tuning a pre-trained Whisper model for the Dhivehi language. Model has not been pre-trained on Dhivehi language at all. The base model selected is pre-trained on Sinhalese, a closely related language, to leverage linguistic similarities for better performance.
 
