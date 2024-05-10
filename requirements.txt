@@ -1,0 +1,11 @@
+torch==2.2.2
+torchaudio==2.2.2
+librosa==0.10.1
+soundfile==0.12.1
+jupyter==1.0.0
+notebook==7.1.2
+datasets==2.18.0
+evaluate==0.4.1
+accelerate==0.29.2
+jiwer==3.0.3
+ffmpeg==1.4

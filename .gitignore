@@ -1,0 +1,10 @@
+**/*__pycache__
+**/*.json
+**/*.arrow
+**/*.safetensors
+**/*.pth
+**/*.pt
+**/*.bin
+**/*models
+
+
